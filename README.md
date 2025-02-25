@@ -14,7 +14,7 @@ This project is a stylish **modern calculator** built using **HTML, CSS, and Jav
 ---
 
 ## 🎥 Preview  
-<img src="screenshot.png" alt="RG Calculator Screenshot" width="600" height="450">
+<img src="screenshot.png" alt="RG Calculator Screenshot" width="100%" height="450">
 
 ---
 
