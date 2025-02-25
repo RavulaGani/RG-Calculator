@@ -34,9 +34,9 @@ This project is a stylish **modern calculator** built using **HTML, CSS, and Jav
 
 ---
 ## 🎮 How to Use
-✔ **Click buttons to perform calculations.**
-✔ **Use the keyboard for input:**
-✔ **0-9 → Enter numbers**
+- ✔ **Click buttons to perform calculations.**
+- ✔ **Use the keyboard for input:**
+- ✔ **0-9 → Enter numbers**
 ✔ ** + - * / % → Operators**
 ✔ ** Enter → Equals (=)**
 ✔ ** Backspace → Delete last digit**
