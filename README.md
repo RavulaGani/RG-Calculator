@@ -37,14 +37,14 @@ This project is a stylish **modern calculator** built using **HTML, CSS, and Jav
 - ✔ **Click buttons to perform calculations.**
 - ✔ **Use the keyboard for input:**
 - ✔ **0-9 → Enter numbers**
-✔ ** + - * / % → Operators**
-✔ ** Enter → Equals (=)**
-✔ ** Backspace → Delete last digit**
-✔ ** Escape (Esc) → Clear display**
+- ✔ ** + - * / % → Operators**
+- ✔ ** Enter → Equals (=)**
+- ✔ ** Backspace → Delete last digit**
+- ✔ ** Escape (Esc) → Clear display**
 ## 📌 Future Improvements
-🔹**Add a history feature to store previous calculations**
-🔹**Improve animations for button presses**
-🔹**Support dark/light mode toggle**
+- 🔹**Add a history feature to store previous calculations**
+- 🔹**Improve animations for button presses**
+- 🔹**Support dark/light mode toggle**
 
 ## 🤝 Contributing
 Feel free to fork this repository and improve the project. If you find any bugs or want to request a feature, create an issue!
