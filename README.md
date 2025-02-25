@@ -50,7 +50,7 @@ This project is a stylish **modern calculator** built using **HTML, CSS, and Jav
 Feel free to fork this repository and improve the project. If you find any bugs or want to request a feature, create an issue!
 
 ## 📄 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the Creative Commons Zero v1.0 Universal License.
 
 ## 💡 Developed with ❤️ by RG
 
