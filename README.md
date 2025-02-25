@@ -34,7 +34,7 @@ This project is a stylish **modern calculator** built using **HTML, CSS, and Jav
 
 ---
 3.-**🎮 How to Use**
-- Click buttons to perform calculations.
+✔ **Click buttons to perform calculations.**
 - Use the keyboard for input:
 - 0-9 → Enter numbers
 - + - * / % → Operators
@@ -42,7 +42,7 @@ This project is a stylish **modern calculator** built using **HTML, CSS, and Jav
 - Backspace → Delete last digit
 - Escape (Esc) → Clear display
 4.**📌 Future Improvements**
--🔹 Add a history feature to store previous calculations
+🔹**Add a history feature to store previous calculations**
 -🔹 Improve animations for button presses
 -🔹 Support dark/light mode toggle
 
