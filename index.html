@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RG Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="iphone-frame">
+        <div class="notch"></div>
+        <div class="calculator">
+            <input type="text" id="display" disabled>
+            
+            <div class="buttons">
+                <button class="gray" onclick="clearDisplay()">AC</button>
+                <button class="gray" onclick="backspace()">DEL</button>
+                <button class="gray" onclick="appendValue('%')">%</button>
+                <button class="orange" onclick="appendValue('/')">÷</button>
+
+                <button class="dark" onclick="appendValue('7')">7</button>
+                <button class="dark" onclick="appendValue('8')">8</button>
+                <button class="dark" onclick="appendValue('9')">9</button>
+                <button class="orange" onclick="appendValue('*')">×</button>
+
+                <button class="dark" onclick="appendValue('4')">4</button>
+                <button class="dark" onclick="appendValue('5')">5</button>
+                <button class="dark" onclick="appendValue('6')">6</button>
+                <button class="orange" onclick="appendValue('-')">−</button>
+
+                <button class="dark" onclick="appendValue('1')">1</button>
+                <button class="dark" onclick="appendValue('2')">2</button>
+                <button class="dark" onclick="appendValue('3')">3</button>
+                <button class="orange" onclick="appendValue('+')">+</button>
+
+                <button class="zero dark" onclick="appendValue('0')">0</button>
+                <button class="dark" onclick="appendValue('.')">.</button>
+                <button class="orange" onclick="calculateResult()">=</button>
+            </div>
+        </div>
+        <div><h1 style="color:#A5A5A5;"><u>Developed By:</u><br>Ravula Ganesh</h1></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
